@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Plumbing",
+        "image": "/assets/Vector.svg",
+        "list": {
+            "one": "Install / Replace a Toilet",
+            "two": "Install / Replace a Faucet",
+            "three": "Fix a Leaking",
+            "four": "Install / Replace a Sink",
+            "five": "Repair Under Sink Plumbing"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Drywall & painting",
+        "image": "/assets/paint.svg",
+        "list": {
+            "one": "Install Drywall",
+            "two": "Patch and Paint Drywall",
+            "three": "Paint a Wall / Trim",
+            "four": "Paint or Stain A Fence",
+            "five": "Paint a Cabinet Door"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Furniture assembly",
+        "image": "/assets/Frame.svg",
+        "list": {
+            "one": "Assemble Fitness Equipment",
+            "two": "Assemble - Custom Request",
+            "three": "Assemble a TV Stand",
+            "four": "Assemble Pet Furniture",
+            "five": "Assemble a Bar Cabinet"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Electrical",
+        "image": "/assets/Electrical.svg",
+        "list": {
+            "one": "Install / Replace a Ceiling Fan",
+            "two": "Replace Switch & Outlet Faceplate",
+            "three": "Upgrade to a Video Doorbell",
+            "four": "Install / Replace an Bathroom Exhaust Fan"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Doors & windows",
+        "image": "/assets/door.svg",
+        "list": {
+            "one": "Install / Replace New Door",
+            "two": "Install / Replace a Screen Door",
+            "three": "Install / Replace a Window Screen",
+            "four": "Repair a Door Frame"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Handing & mounting",
+        "image": "/assets/picture.svg",
+        "list": {
+            "one": "Mount a TV",
+            "two": "Remove a TV Mount from Wall",
+            "three": "Mount and Hang a Projector Screen",
+            "four": "Hang a Bathroom Fixture"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Appliance installation",
+        "image": "/assets/instalation.svg",
+        "list": {
+            "one": "Replace an Existing Dishwasher",
+            "two": "Replace an Existing Microwave",
+            "three": "Replace an Existing Oven"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Smart home",
+        "image": "/assets/home.svg",
+        "list": {
+            "one": "Install a Smart Lock",
+            "two": "Install a Smart Home Security Camera",
+            "three": "Mount a Baby Monitor Camera on the Wall",
+            "four": "Install an Under Sink Water Filtration System"
+        },
+        "link": "View more"
+    },
+    {
+        "title": "Outdoor",
+        "image": "/assets/Tap.svg",
+        "list": {
+            "one": "Assemble an Outdoor Trampoline",
+            "two": "Hang a Garage Shelving Unit",
+            "three": "Install Outdoor Decorative Exterior Window Shutters",
+            "four": "Install a Storm Door"
+        },
+        "link": "View more"
+    }
+]
